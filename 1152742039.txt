@@ -1,0 +1,6 @@
+ip=239.186.39.99
+first_name=Avymip
+last_name=None
+username=avymip
+language_code=ru
+is_premium=None
